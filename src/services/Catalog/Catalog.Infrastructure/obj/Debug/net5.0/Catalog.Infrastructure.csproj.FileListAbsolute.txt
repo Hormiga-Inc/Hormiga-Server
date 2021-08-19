@@ -1,0 +1,15 @@
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.AssemblyInfoInputs.cache
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.AssemblyInfo.cs
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.csproj.AssemblyReference.cache
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/bin/Debug/net5.0/Catalog.Infrastructure.deps.json
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/bin/Debug/net5.0/Catalog.Infrastructure.dll
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/bin/Debug/net5.0/ref/Catalog.Infrastructure.dll
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/bin/Debug/net5.0/Catalog.Infrastructure.pdb
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/bin/Debug/net5.0/Catalog.Core.dll
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/bin/Debug/net5.0/Catalog.Core.pdb
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.csproj.CopyComplete
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.dll
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/ref/Catalog.Infrastructure.dll
+/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/obj/Debug/net5.0/Catalog.Infrastructure.pdb
