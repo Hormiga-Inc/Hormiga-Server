@@ -26,7 +26,6 @@ namespace Catalog.Infrastructure.Data.MongoConfig
             {
                 new Product()
                 {
-                    Id = Guid.NewGuid(),
                     Name = "Motorola One XP",
                     Detail = "Telefono Mobil de alta gama",
                     CategoryId= "iohohiohoihoihodfe3543ef",
@@ -36,7 +35,7 @@ namespace Catalog.Infrastructure.Data.MongoConfig
                 },
                 new Product()
                 {
-                    Id = Guid.NewGuid(),
+                    
                     Name = "Nokia One XP",
                     Detail = "Telefono Mobil de alta gama",
                     CategoryId= "iohohiohoihoihodfe3543ef",
@@ -46,7 +45,7 @@ namespace Catalog.Infrastructure.Data.MongoConfig
                 },
                 new Product()
                 {
-                    Id = Guid.NewGuid(),
+                    
                     Name = "Iphone One XP",
                     Detail = "Telefono Mobil de alta gama",
                     CategoryId= "iohohiohoihoihodfe3543ef",

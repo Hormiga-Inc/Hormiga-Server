@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ob7g5/19aq3cBAMK7DgdRa/W2sdYLW3mAauD/a3oWtBoqnLizlwaneT3ftgYem9l5iiAyXmJ3lUObnanvbp44g==",
+  "dgSpecHash": "xn/aZIJzr0k+zOUW7Kh8wHTK8qd1raMQljwvFS9yK7ENK8+yJfBPeGw33GVUamin7XJcZ5o4mgnF38VAakjMTw==",
   "success": true,
   "projectFilePath": "/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Infrastructure/Catalog.Infrastructure.csproj",
   "expectedPackageFiles": [

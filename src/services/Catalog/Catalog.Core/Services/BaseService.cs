@@ -30,6 +30,7 @@ namespace Catalog.Core.Services
 
         public Task CreateAsync(TEntity entity)
         {
+            
             return _repository.CreateAsync(entity);
         }
 

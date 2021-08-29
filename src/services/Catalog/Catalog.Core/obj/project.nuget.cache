@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XReczlJL2TboS+HYtARshhRnqhtKpXIVrZ3kiO1fEnbPu2QeH/A8/FlHw98Rfjjp1uBykZzDOc++BwpdL6SrCw==",
+  "dgSpecHash": "T7ZZrxtC82tuBEMOx/XTu0/MaiMtdRl7YXYRupvAV/bkCoLhBdnJ/vqNqt96KFjDtT1mqfxOsMMgad2pS7rwlw==",
   "success": true,
   "projectFilePath": "/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.Core/Catalog.Core.csproj",
   "expectedPackageFiles": [],

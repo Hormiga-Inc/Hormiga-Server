@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vifeJjfdPgbMTL9hLAA7VNCEeOuJs1R+Qi+AjaAEUh2/xWnCfabmfp0skzN4q9rR2t/xJywJp138P2XosGMD/w==",
+  "dgSpecHash": "8AwY2USzqOPa1wU1zuw9Hbi29YU9p/TCeviGGMwVsRK50/JrjzeuVrDQq/NoykTQDVxD+/jpb/+PXhCyJcCXaQ==",
   "success": true,
   "projectFilePath": "/home/joseluis/Repos/Hormiga-Server/src/services/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [

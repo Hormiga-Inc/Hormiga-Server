@@ -5,9 +5,15 @@ namespace Catalog.Core.Entities
 {
     public class Catalog : IEntity
     {
-        public Guid Id { get; set; }
+        public Catalog()
+        {
+            this.Id = new Guid();
+            this.CreatedAt = DateTime.UtcNow;
 
-        public DateTime CreatedAt { get; set; }
+        }
+        public Guid Id { get; set;}
+
+        public DateTime CreatedAt { get; }
 
         public DateTime ModifiedAt { get; set; }
     }

@@ -6,6 +6,6 @@ namespace Catalog.Core.Contracts
     {
         Guid Id { get; set; }
         DateTime CreatedAt { get; }
-        DateTime ModifiedAt { get; }
+        DateTime ModifiedAt { get; set;}
     }
 }
